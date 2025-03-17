@@ -12,3 +12,4 @@ kubesphere/alertmanager-proxy:v0.2.0
 kubesphere/kube-rbac-proxy:v0.11.0
 kubesphere/notification-manager-operator:v2.5.2
 kubesphere/notification-tenant-sidecar:v4.0.2
+kubesphere/notification-manager:v2.5.2
