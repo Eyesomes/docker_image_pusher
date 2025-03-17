@@ -9,3 +9,4 @@ timberio/vector:0.39.0-debian
 kubesphere/kubectl:v1.27.12
 kubesphere/vector-config:v0.2.1
 kubesphere/alertmanager-proxy:v0.2.0
+kubesphere/kube-rbac-proxy:v0.11.0
